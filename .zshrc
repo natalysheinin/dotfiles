@@ -1,6 +1,7 @@
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/natalysheinin/.oh-my-zsh
 
+# https://github.com/KnVerey/k8s-workflow-utils
 ZSH_THEME="kubernetes-context"
 
 plugins=(git)
