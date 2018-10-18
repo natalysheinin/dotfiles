@@ -1,0 +1,12 @@
+# config for powerline-shell, lives here: ~/.config/powerline-shell/config.json
+{
+  "segments": [
+    "virtual_env",
+    "ssh", 
+    "cwd", 
+    "git", 
+    "hg", 
+    "jobs", 
+    "root"
+  ]
+}
